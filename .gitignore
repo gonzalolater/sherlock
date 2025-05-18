@@ -27,10 +27,6 @@ dist/**
 .ipynb_checkpoints
 *.ipynb
 
-# Output files, except requirements.txt
-*.txt
-!requirements.txt
-
 # Comma-Separated Values (CSV) Reports
 *.csv
 
